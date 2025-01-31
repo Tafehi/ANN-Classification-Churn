@@ -4,6 +4,7 @@ This repository provides an artificial neural network (ANN) model to predict cus
 
 ## Table of Contents
 - [Overview](#overview)
+- [Running Applicaion](#Run_the_App)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Model](#model)
@@ -13,6 +14,9 @@ This repository provides an artificial neural network (ANN) model to predict cus
 
 ## Overview
 Customer churn prediction is essential for businesses to retain their customers. This project employs an artificial neural network (ANN) to predict whether a customer will churn based on different input scores. By using Streamlit, users can interactively adjust the input values to see the impact on the predictions.
+
+## Run the App
+Click on the following link in order to test the applicaion running live on streamlit web: [Streamlit App](https://ann-classification-churn-zatqzzueupynxcsyfxjbg6.streamlit.app/)
 
 ## Installation
 1. Clone the repository:
